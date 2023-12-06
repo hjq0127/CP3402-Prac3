@@ -34,3 +34,28 @@ WordPress themes provide a starting base for creating a website and simplify man
 After completing the practical exercises, I started watching YouTube courses on the topic of WordPress to explore additional insights that may not have been covered in the practical exercises alone. I discovered alternative ways to utilize controls in web design, particularly in relation to adding images. I learned that adding images is not limited to embedding them within articles; there are other techniques such as direct image addition and using URLs to create super links with images. These methods can be valuable for adding finer details when building websites in the future.
 
 Based on my study strategy this week, I found that reading the WordPress guide, completing the exercises, and then revisiting the tutorial videos worked well for me. However, I recognize the need for more practice and the importance of seeking additional resources beyond videos to deepen my understanding. By diversifying my learning sources and exploring more materials, I can gain a more comprehensive understanding of WordPress and refine my skills in website development.
+# Interview
+Communication Skills:
+Strengths: Look for individuals who are effective communicators, both in expressing their thoughts and actively listening to others.
+Weaknesses: Identify any weaknesses in communication, such as difficulty expressing ideas clearly or not actively engaging in group discussions.
+Collaboration and Teamwork:
+
+Strengths: Evaluate how well individuals work in a team setting, their willingness to contribute, and their ability to collaborate effectively.
+Weaknesses: Identify any potential issues with teamwork, such as dominating conversations, being uncooperative, or lacking the ability to compromise.
+Leadership Abilities:
+
+Strengths: Recognize individuals who exhibit leadership qualities, such as taking initiative, motivating others, and making informed decisions.
+Weaknesses: Assess any weaknesses in leadership, such as difficulty delegating tasks, lacking confidence in decision-making, or being overly authoritative.
+Problem-Solving Skills:
+
+Strengths: Look for individuals who demonstrate strong problem-solving abilities, critical thinking skills, and a proactive approach to finding solutions.
+Weaknesses: Identify any challenges individuals may have with problem-solving, such as struggling to analyze complex situations or lacking creativity in finding alternate solutions.
+Time Management:
+
+Strengths: Evaluate individuals who effectively manage their time, meet deadlines, and prioritize tasks.
+Weaknesses: Identify any weaknesses in time management, such as procrastination, difficulty meeting deadlines, or poor task prioritization.
+
+Interviews provide insights into an individual's motivations, goals, and their approach to working in a team environment.
+Ask behavioral questions to assess whether the interviewee will work harmoniously and successfully with me, 1+1>2.
+Also focus on their communication skills, leadership potential, collaboration abilities, and willingness to learn and grow.
+When providing feedback to individuals, it is important to: communicate appropriately

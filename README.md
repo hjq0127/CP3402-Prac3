@@ -27,7 +27,7 @@ How to Change a WordPress Theme ‒ A Step-by-Step Guide + How It Can Help https
 
 How to Create, Add, & Edit a WordPress Navigation Menu https://jetpack.com/blog/wordpress-navigation-menu/#:~:text=First%2C%20log%20in%20to%20your,using%20the%20theme%20customizer%20screen.
 # Estimated Time
-I spent approximately 6 hours of personal time this week studying this sub-theme, including the time spent on the Assessment1.
+I spent approximately 6 hours of personal time this week studying this sub-theme, including the time spent on the Prac3.
 # Insights on Content
 WordPress themes provide a starting base for creating a website and simplify many coding aspects, especially when it comes to using the tool. It helped me build a simple website quickly without having to start from scratch. Through this week’s study, I gained confidence in building websites using WordPress. I learned how to create a website using WordPress, different ways to present a website, and explored the various website templates available. Overall, this experience enhanced my understanding of how to publish a website using WordPress.
 # Insights on Career/Employment/Learning
